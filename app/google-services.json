@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "451190674953",
+    "firebase_url": "https://fairebeis-6ecab-default-rtdb.firebaseio.com",
+    "project_id": "fairebeis-6ecab",
+    "storage_bucket": "fairebeis-6ecab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451190674953:android:4b6ad99edc389e1a9d4ad8",
+        "android_client_info": {
+          "package_name": "com.example.ayudantia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGz-b8HO1DLHmvEIiAcks4h8U3tLI0b9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
